@@ -4,4 +4,4 @@
 
 ## Welcome to BCV (Book Chapter Verse)
 - Guess where the verse is.  That's pretty much it. 
-![BCV_icon.png](/img/user/BCV_icon.png)
+![BCV_icon.png](/img/user/Geode/Art/Pasted%20Images/BCV_icon.png)
