@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geode/never-pawz/website/never-pawz-privacy-policy/","tags":["legal"],"created":"2026-06-20T10:58:12.769-05:00","updated":"2026-07-09T21:14:05.510-05:00","dg-note-properties":{"Updated":"2026-06-20T10:58:00","tags":["legal"]}}
+{"dg-publish":true,"permalink":"/geode/never-pawz/website/never-pawz-privacy-policy/","tags":["legal"],"created":"2026-06-20T10:58:12.769-05:00","updated":"2026-08-05T18:20:21.501-05:00","dg-note-properties":{"Updated":"2026-06-20T10:58:00","tags":["legal"]}}
 ---
 
 Thank you for playing Never Pawz games! This Privacy Policy describes:
@@ -53,3 +53,5 @@ You also have the right to correct your data, have your data deleted, object to 
 We will respond to all requests within a reasonable timeframe. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily. If you wish to exercise any of your data subject rights described above, please use the support options described in [[Geode/Never Pawz/Website/Contact Us\|Contact Us]].
 ## Data retention.
 We retain your data for as long as your account is active or as needed to provide you the Service. Note that if you ask us to remove your personal data, we will retain your data as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+To Delete your BCV Account: [[Geode/Never Pawz/Website/BCV Account Deletion\|BCV Account Deletion]]
